@@ -4,6 +4,8 @@ import ccxt
 import time
 import requests
 
+# TEST
+
 class CcxtAPI(object):
     def __init__(self):
         self.msec = 1000
